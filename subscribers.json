@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Иван Иванов",
+        "address": "ул. Ленина, д. 10",
+        "publications": ["Издание 1", "Издание 2"],
+        "delivery_start": "2024-01-01",
+        "subscription_duration": 12
+    },
+    {
+        "id": 2,
+        "name": "Мария Петрова",
+        "address": "ул. Гагарина, д. 5",
+        "publications": ["Издание 2"],
+        "delivery_start": "2024-02-01",
+        "subscription_duration": 6
+    }
+]
